@@ -1,0 +1,29 @@
+Dummy Student Database – AI Agent / RAG Testing
+This dataset is designed for testing a LangChain Document Question-Answering Agent. All names, contact details and academic data are dummy data.
+
+Student Records:
+ID: STU001 | Name: Arjun Kumar | Dept: CSE | Year: 2nd | Email: arjun@example.com | Phone: 9000000001 | Attendance: 87% | Python: 82 | DSA: 76 | AI: 91 | Overall: 83 | Placement: Eligible
+ID: STU002 | Name: Priya Sharma | Dept: IT | Year: 2nd | Email: priya@example.com | Phone: 9000000002 | Attendance: 92% | Python: 91 | DSA: 88 | AI: 94 | Overall: 91 | Placement: Eligible
+ID: STU003 | Name: Rahul Raj | Dept: ECE | Year: 2nd | Email: rahul@example.com | Phone: 9000000003 | Attendance: 74% | Python: 68 | DSA: 72 | AI: 79 | Overall: 73 | Placement: Not Eligible
+ID: STU004 | Name: Sneha Devi | Dept: CSE | Year: 2nd | Email: sneha@example.com | Phone: 9000000004 | Attendance: 95% | Python: 88 | DSA: 92 | AI: 96 | Overall: 92 | Placement: Eligible
+ID: STU005 | Name: Vikram Singh | Dept: AIDS | Year: 2nd | Email: vikram@example.com | Phone: 9000000005 | Attendance: 81% | Python: 75 | DSA: 81 | AI: 84 | Overall: 80 | Placement: Eligible
+ID: STU006 | Name: Divya S | Dept: IT | Year: 2nd | Email: divya@example.com | Phone: 9000000006 | Attendance: 89% | Python: 84 | DSA: 79 | AI: 88 | Overall: 84 | Placement: Eligible
+ID: STU007 | Name: Karthik M | Dept: EEE | Year: 2nd | Email: karthik@example.com | Phone: 9000000007 | Attendance: 69% | Python: 72 | DSA: 65 | AI: 70 | Overall: 69 | Placement: Not Eligible
+ID: STU008 | Name: Aishwarya R | Dept: CSE | Year: 2nd | Email: aishwarya@example.com | Phone: 9000000008 | Attendance: 91% | Python: 95 | DSA: 89 | AI: 93 | Overall: 92 | Placement: Eligible
+ID: STU009 | Name: Mohammed Faiz | Dept: IT | Year: 2nd | Email: faiz@example.com | Phone: 9000000009 | Attendance: 85% | Python: 78 | DSA: 86 | AI: 81 | Overall: 82 | Placement: Eligible
+ID: STU010 | Name: Keerthana P | Dept: ECE | Year: 2nd | Email: keerthana@example.com | Phone: 9000000010 | Attendance: 88% | Python: 81 | DSA: 77 | AI: 85 | Overall: 81 | Placement: Eligible
+ID: STU011 | Name: Manoj K | Dept: CSE | Year: 2nd | Email: manoj@example.com | Phone: 9000000011 | Attendance: 76% | Python: 70 | DSA: 74 | AI: 78 | Overall: 74 | Placement: Not Eligible
+ID: STU012 | Name: Nandhini V | Dept: AIDS | Year: 2nd | Email: nandhini@example.com | Phone: 9000000012 | Attendance: 94% | Python: 90 | DSA: 93 | AI: 89 | Overall: 91 | Placement: Eligible
+ID: STU013 | Name: Sanjay Kumar | Dept: IT | Year: 2nd | Email: sanjay@example.com | Phone: 9000000013 | Attendance: 83% | Python: 73 | DSA: 80 | AI: 86 | Overall: 80 | Placement: Eligible
+ID: STU014 | Name: Harini S | Dept: CSE | Year: 2nd | Email: harini@example.com | Phone: 9000000014 | Attendance: 97% | Python: 94 | DSA: 96 | AI: 95 | Overall: 95 | Placement: Eligible
+ID: STU015 | Name: Ashwin R | Dept: ECE | Year: 2nd | Email: ashwin@example.com | Phone: 9000000015 | Attendance: 79% | Python: 77 | DSA: 71 | AI: 75 | Overall: 74 | Placement: Not Eligible
+ID: STU016 | Name: Meena L | Dept: IT | Year: 2nd | Email: meena@example.com | Phone: 9000000016 | Attendance: 90% | Python: 86 | DSA: 84 | AI: 90 | Overall: 87 | Placement: Eligible
+ID: STU017 | Name: Dinesh P | Dept: EEE | Year: 2nd | Email: dinesh@example.com | Phone: 9000000017 | Attendance: 84% | Python: 69 | DSA: 76 | AI: 80 | Overall: 75 | Placement: Eligible
+ID: STU018 | Name: Fathima N | Dept: CSE | Year: 2nd | Email: fathima@example.com | Phone: 9000000018 | Attendance: 93% | Python: 89 | DSA: 91 | AI: 94 | Overall: 91 | Placement: Eligible
+ID: STU019 | Name: Gokul S | Dept: AIDS | Year: 2nd | Email: gokul@example.com | Phone: 9000000019 | Attendance: 78% | Python: 71 | DSA: 79 | AI: 73 | Overall: 74 | Placement: Not Eligible
+ID: STU020 | Name: Lavanya R | Dept: IT | Year: 2nd | Email: lavanya@example.com | Phone: 9000000020 | Attendance: 86% | practical: 83 | DSA: 87 | AI: 85 | Overall: 85 | Placement: Eligible
+ID: STU021 | Name: Surya M | Dept: CSE | Year: 2nd | Email: surya@example.com | Phone: 9000000021 | Attendance: 82% | Python: 79 | DSA: 75 | AI: 82 | Overall: 79 | Placement: Eligible
+ID: STU022 | Name: Janani K | Dept: ECE | Year: 2nd | Email: janani@example.com | Phone: 9000000022 | Attendance: 96% | Python: 92 | DSA: 90 | AI: 97 | Overall: 93 | Placement: Eligible
+ID: STU023 | Name: Naveen B | Dept: IT | Year: 2nd | Email: naveen@example.com | Phone: 9000000023 | Attendance: 72% | Python: 65 | DSA: 70 | AI: 68 | Overall: 68 | Placement: Not Eligible
+ID: STU024 | Name: Reshma P | Dept: AIDS | Year: 2nd | Email: reshma@example.com | Phone: 9000000024 | Attendance: 89% | Python: 87 | DSA: 82 | AI: 90 | Overall: 86 | Placement: Eligible
+ID: STU025 | Name: Vignesh R | Dept: CSE | Year: 2nd | Email: vignesh@example.com | Phone: 9000000025 | Attendance: 80% | Python: 76 | DSA: 78 | AI: 83 | Overall: 79 | Placement: Eligible
